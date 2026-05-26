@@ -14,7 +14,8 @@
 <body>
 
 <div class="container">
-    <img src="tu_imagen.jpg" alt="Estudio de Barbería" width="500">
+    <img src="tu_imagen.jpg" ![Uploading image.jpeg…]()
+alt="Estudio de Barbería" width="500">
 
     <h1>Bienvenidos a Brandon Studio</h1>
     <p><em>Más que un corte, una experiencia.</em></p>
