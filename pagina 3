@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Brandon Studio</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; background-color: #f4f4f4; padding: 20px; }
+        .container { background: white; padding: 20px; border-radius: 10px; max-width: 500px; margin: auto; }
+        img { width: 90%; max-width: 400px; border-radius: 15px; border: 5px solid #333; }
+        .btn { display: inline-block; padding: 15px 25px; background-color: #25d366; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 20px; }
+        .map-link { color: #007bff; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <img src="tu_imagen.jpg" alt="Estudio de Barbería" width="500">
+
+    <h1>Bienvenidos a Brandon Studio</h1>
+    <p><em>Más que un corte, una experiencia.</em></p>
+    <p>En <strong>Brandon Studio</strong>, mi objetivo es brindarte una experiencia única de cuidado personal. Cada sesión está diseñada para que te sientas renovado, con atención al detalle y un trato personalizado.</p>
+
+    <h3>Mis Servicios Especializados</h3>
+    <ul style="text-align: left; display: inline-block;">
+        <li><strong>Degradados (Fades):</strong> Desde un Skin Fade hasta transiciones suaves.</li>
+        <li><strong>Cortes Clásicos:</strong> Estilos tradicionales con tijera y peine.</li>
+        <li><strong>Diseños (Hair Tattoo):</strong> Grabados y líneas precisas para un toque creativo.</li>
+        <li><strong>Arreglo de Barba:</strong> Perfilado con navaja, delineado y cuidado de vello facial.</li>
+        <li><strong>Cortes Modernos:</strong> Texturizados, Mullets, Burst Fades y tendencias actuales.</li>
+    </ul>
+
+    <h3>Horarios de Atención</h3>
+    <p>
+        Lunes a Viernes: 8:00 am - 2:30 pm<br>
+        Sábado: Hasta las 2:30 pm<br>
+        <strong>Domingo: Cerrado</strong>
+    </p>
+
+    <h3>Precios y Promociones</h3>
+    <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+        <tr style="background-color: #eee;">
+            <th>Servicio</th><th>Precio</th>
+        </tr>
+        <tr>
+            <td>Nueva cita (Clientes nuevos/antiguos)</td><td>$150</td>
+        </tr>
+        <tr>
+            <td><strong>Cita completa:</strong> Corte + Barba + Ceja + Diseño</td><td>$200</td>
+        </tr>
+        <tr>
+            <td><strong>Sexta cita solo corte y ceja (Precio especial)</strong></td><td><strong>$100</strong></td>
+        </tr>
+    </table>
+    <div style="background-color: #fff3cd; padding: 10px; border-radius: 5px;">
+        <p>Si vienes una semana antes de tu cita o es tu cumpleaños, <strong>¡tu corte es GRATIS!</strong></p>
+    </div>
+
+    <h3>Ubicación</h3>
+    <p>Encuéntranos en: <br>
+        <a href="https://maps.google.com/?cid=14992487431045858461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ" class="map-link" target="_blank">
+            Sta María 2018, Hacienda L. Longoria, 88210 Nuevo Laredo, Tamps.
+        </a>
+    </p>
+
+    <a href="https://wa.me/8674731734" class="btn">Reservar Cita por WhatsApp</a>
+</div>
+
+</body>
+</html>
